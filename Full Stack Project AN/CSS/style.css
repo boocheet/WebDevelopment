@@ -1,0 +1,26 @@
+*{
+  text-align: right;
+}
+h2 {
+  color: red;
+}
+p {
+  color: pink;
+}
+body {
+  background-image: url(background.jpg);
+  background-size: cover;
+}
+h2, p {
+  color: white;
+  text-align: center;
+  /* border: 5px solid rgb(255, 176, 170); */
+  cursor: pointer;
+}
+p {
+  color: white;
+}
+li {
+  list-style: none;
+  display: inline-block;
+}
